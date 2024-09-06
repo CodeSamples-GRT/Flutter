@@ -1,0 +1,6 @@
+output-class: AppLocalizations
+output-dir: lib/l10n
+arb-dir: lib/arb
+output-localization-file: localizable_strings.dart
+synthetic-package: false
+nullable-getter: false
